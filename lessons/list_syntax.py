@@ -39,7 +39,7 @@ print("The length of lists:")
 print(len(grocery_list))
 
 #Removing an item
-grocery_list.pop(1)
+grocery_list.pop(0)
 print("After removing the first item")
 print(grocery_list)
 
